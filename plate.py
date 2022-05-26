@@ -31,3 +31,4 @@ top = 0
 for i in range(n):
     command[i] = input()
 alter_stack(command, n)
+print(n)
